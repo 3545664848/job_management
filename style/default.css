@@ -1,0 +1,50 @@
+.login {
+	background:url(images/login.jpg) no-repeat 0 0 scroll;
+	width:931px;
+	height:371px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:8%;
+}
+.copyright{
+	font-size:11px;
+	color:#666;
+	text-align:center;}
+.login ul{
+	width:220px;
+	margin-left:500px;
+	padding-top:120px;!important	
+	margin-top:120px;
+	}
+.user{
+	background:url("images/login_ico.gif") no-repeat scroll left 0 transparent;
+    margin-top:20px;
+	}
+.pwd{
+	background:url("images/login_ico.gif") no-repeat scroll left -28px transparent;
+    margin-top:20px;
+	}
+.user span{
+	padding-left:8px;
+	}
+.pwd span{
+	padding-left:8px;
+	}
+.radiobt{
+    margin-top:20px;
+	}
+.button{
+    margin-top:20px;
+	}
+#textbox{
+	}
+*{
+	margin:0;
+	padding:0;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	color:#11449E;
+	}
+
+
